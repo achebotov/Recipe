@@ -1,0 +1,374 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* RecipeAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 387}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 463}";
+		};
+	};
+	1D3623250D0F684500981E51 /* RecipeAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1287}}";
+			sepNavSelRange = "{316, 0}";
+			sepNavVisRange = "{234, 1365}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Recipe */ = {
+		activeExec = 0;
+		executables = (
+			DA92CF3214A5F66500B2DE7F /* Recipe */,
+		);
+	};
+	28216C950DB411BC00E5133A /* DailyViewController.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = DailyViewController.h;
+		path = /Users/aser/Documents/projects/Recipe/Classes/DailyViewController.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 349}}";
+			sepNavSelRange = "{58, 14}";
+			sepNavVisRange = "{0, 236}";
+		};
+	};
+	28216C960DB411BC00E5133A /* DailyViewController.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = DailyViewController.m;
+		path = /Users/aser/Documents/projects/Recipe/Classes/DailyViewController.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 793}}";
+			sepNavSelRange = "{72, 0}";
+			sepNavVisRange = "{224, 881}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DA92CF3214A5F66500B2DE7F /* Recipe */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Recipe */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Recipe */,
+		);
+		codeSenseManager = DA92CF4814A5F66B00B2DE7F /* Code sense */;
+		executables = (
+			DA92CF3214A5F66500B2DE7F /* Recipe */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					919,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 346420961;
+			PBXWorkspaceStateSaveDate = 346420961;
+		};
+		perUserProjectItems = {
+			DA92CF6814A5F9CB00B2DE7F /* PBXTextBookmark */ = DA92CF6814A5F9CB00B2DE7F /* PBXTextBookmark */;
+			DA92CF6914A5F9CB00B2DE7F /* PBXTextBookmark */ = DA92CF6914A5F9CB00B2DE7F /* PBXTextBookmark */;
+			DA92CF6A14A5F9CB00B2DE7F /* PBXTextBookmark */ = DA92CF6A14A5F9CB00B2DE7F /* PBXTextBookmark */;
+			DA92CF6B14A5F9CB00B2DE7F /* PBXTextBookmark */ = DA92CF6B14A5F9CB00B2DE7F /* PBXTextBookmark */;
+			DA92CF7914A5FB3100B2DE7F /* PBXBookmark */ = DA92CF7914A5FB3100B2DE7F /* PBXBookmark */;
+			DA92CF7A14A5FB3100B2DE7F /* PBXTextBookmark */ = DA92CF7A14A5FB3100B2DE7F /* PBXTextBookmark */;
+			DA92CF8214A5FD1C00B2DE7F /* XCBuildMessageTextBookmark */ = DA92CF8214A5FD1C00B2DE7F /* XCBuildMessageTextBookmark */;
+			DA92CF8314A5FD1C00B2DE7F /* PBXTextBookmark */ = DA92CF8314A5FD1C00B2DE7F /* PBXTextBookmark */;
+			DA92CF8C14A5FD7900B2DE7F /* PBXTextBookmark */ = DA92CF8C14A5FD7900B2DE7F /* PBXTextBookmark */;
+			DA92CF8D14A5FD7900B2DE7F /* PBXTextBookmark */ = DA92CF8D14A5FD7900B2DE7F /* PBXTextBookmark */;
+			DA92CF8E14A5FD7900B2DE7F /* PBXTextBookmark */ = DA92CF8E14A5FD7900B2DE7F /* PBXTextBookmark */;
+			DA92CF8F14A5FD7900B2DE7F /* PBXTextBookmark */ = DA92CF8F14A5FD7900B2DE7F /* PBXTextBookmark */;
+			DA92CF9014A5FD7900B2DE7F /* PBXTextBookmark */ = DA92CF9014A5FD7900B2DE7F /* PBXTextBookmark */;
+			DA92CF9114A5FD7900B2DE7F /* PBXTextBookmark */ = DA92CF9114A5FD7900B2DE7F /* PBXTextBookmark */;
+			DA92CF9214A5FD7900B2DE7F /* PBXTextBookmark */ = DA92CF9214A5FD7900B2DE7F /* PBXTextBookmark */;
+		};
+		sourceControlManager = DA92CF4714A5F66B00B2DE7F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	DA92CF3214A5F66500B2DE7F /* Recipe */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Recipe;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	DA92CF4714A5F66B00B2DE7F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DA92CF4814A5F66B00B2DE7F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DA92CF6214A5F9C200B2DE7F /* ProductsViewController.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ProductsViewController.h;
+		path = /Users/aser/Documents/projects/Recipe/Classes/ProductsViewController.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 349}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 232}";
+		};
+	};
+	DA92CF6814A5F9CB00B2DE7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C950DB411BC00E5133A /* DailyViewController.h */;
+		name = "DailyViewController.h: 5";
+		rLen = 14;
+		rLoc = 58;
+		rType = 0;
+		vrLen = 236;
+		vrLoc = 0;
+	};
+	DA92CF6914A5F9CB00B2DE7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* DailyViewController.m */;
+		name = "DailyViewController.m: 5";
+		rLen = 0;
+		rLoc = 72;
+		rType = 0;
+		vrLen = 881;
+		vrLoc = 224;
+	};
+	DA92CF6A14A5F9CB00B2DE7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA92CF6214A5F9C200B2DE7F /* ProductsViewController.h */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	DA92CF6B14A5F9CB00B2DE7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA92CF6214A5F9C200B2DE7F /* ProductsViewController.h */;
+		name = "ProductsViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 232;
+		vrLoc = 0;
+	};
+	DA92CF6D14A5FA2400B2DE7F /* DailyViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 410}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 226}";
+		};
+	};
+	DA92CF6E14A5FA2400B2DE7F /* DailyViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 845}}";
+			sepNavSelRange = "{1189, 0}";
+			sepNavVisRange = "{981, 335}";
+		};
+	};
+	DA92CF7114A5FA2B00B2DE7F /* ProductsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 410}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 232}";
+		};
+	};
+	DA92CF7214A5FA2B00B2DE7F /* ProductsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 767}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 841}";
+		};
+	};
+	DA92CF7914A5FB3100B2DE7F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623250D0F684500981E51 /* RecipeAppDelegate.m */;
+	};
+	DA92CF7A14A5FB3100B2DE7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* RecipeAppDelegate.m */;
+		name = "RecipeAppDelegate.m: 98";
+		rLen = 0;
+		rLoc = 3039;
+		rType = 0;
+		vrLen = 753;
+		vrLoc = 2372;
+	};
+	DA92CF8214A5FD1C00B2DE7F /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "FirstViewController.h: No such file or directory";
+		fRef = DA92CF6E14A5FA2400B2DE7F /* DailyViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 8;
+		rType = 1;
+	};
+	DA92CF8314A5FD1C00B2DE7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA92CF6E14A5FA2400B2DE7F /* DailyViewController.m */;
+		name = "DailyViewController.m: 9";
+		rLen = 0;
+		rLoc = 139;
+		rType = 0;
+		vrLen = 214;
+		vrLoc = 0;
+	};
+	DA92CF8C14A5FD7900B2DE7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA92CF6D14A5FA2400B2DE7F /* DailyViewController.h */;
+		name = "DailyViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 226;
+		vrLoc = 0;
+	};
+	DA92CF8D14A5FD7900B2DE7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA92CF7114A5FA2B00B2DE7F /* ProductsViewController.h */;
+		name = "ProductsViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 232;
+		vrLoc = 0;
+	};
+	DA92CF8E14A5FD7900B2DE7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA92CF7214A5FA2B00B2DE7F /* ProductsViewController.m */;
+		name = "ProductsViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 841;
+		vrLoc = 0;
+	};
+	DA92CF8F14A5FD7900B2DE7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* RecipeAppDelegate.h */;
+		name = "RecipeAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 463;
+		vrLoc = 0;
+	};
+	DA92CF9014A5FD7900B2DE7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* RecipeAppDelegate.m */;
+		name = "RecipeAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 316;
+		rType = 0;
+		vrLen = 1135;
+		vrLoc = 41;
+	};
+	DA92CF9114A5FD7900B2DE7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA92CF6E14A5FA2400B2DE7F /* DailyViewController.m */;
+		name = "DailyViewController.m: 9";
+		rLen = 0;
+		rLoc = 139;
+		rType = 0;
+		vrLen = 752;
+		vrLoc = 0;
+	};
+	DA92CF9214A5FD7900B2DE7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA92CF6E14A5FA2400B2DE7F /* DailyViewController.m */;
+		name = "DailyViewController.m: 47";
+		rLen = 0;
+		rLoc = 1164;
+		rType = 0;
+		vrLen = 697;
+		vrLoc = 752;
+	};
+	DA92CFAF14A602CA00B2DE7F /* Recipe.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 387}}";
+			sepNavSelRange = "{490, 0}";
+			sepNavVisRange = "{0, 497}";
+		};
+	};
+	DA92CFB014A602CA00B2DE7F /* Recipe.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 387}}";
+			sepNavSelRange = "{320, 0}";
+			sepNavVisRange = "{0, 327}";
+		};
+	};
+	DA92CFB214A6032000B2DE7F /* Ingredient.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 387}}";
+			sepNavSelRange = "{222, 0}";
+			sepNavVisRange = "{0, 249}";
+		};
+	};
+	DA92CFB314A6032000B2DE7F /* Ingredient.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 387}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 188}";
+		};
+	};
+	DA92CFB814A6073F00B2DE7F /* RecipeManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 387}}";
+			sepNavSelRange = "{273, 0}";
+			sepNavVisRange = "{0, 324}";
+		};
+	};
+	DA92CFB914A6073F00B2DE7F /* RecipeManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 387}}";
+			sepNavSelRange = "{271, 0}";
+			sepNavVisRange = "{0, 394}";
+		};
+	};
+}
